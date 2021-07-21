@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int sum(int a, int b);
+int product(int a, int b);
 
 int main(){
  
@@ -10,4 +11,8 @@ int main(){
 
 int sum(int a, int b){
     return a+b;
+}
+
+int product(int a,int b){
+    return a*b;
 }
