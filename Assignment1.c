@@ -4,11 +4,7 @@ int sum(int a, int b);
 int product(int a, int b);
 
 int main(){
-<<<<<<< HEAD
     int a,b;
-=======
-    int c,d;
->>>>>>> product
 
     return 0;
 }
